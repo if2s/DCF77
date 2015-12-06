@@ -169,7 +169,7 @@ ISR (TIMER2_COMPA_vect)
 			if (minarray[21]==1){
 				minute=minute+1;}
 			
-			dummy=1;
+			dummy=1;//
 				
 		}
 	}
